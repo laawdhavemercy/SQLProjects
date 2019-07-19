@@ -1,0 +1,1 @@
+This is the database I created to practice writing SQL queries.
